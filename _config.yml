@@ -1,6 +1,6 @@
 name: jeffsimeon
 favicon: null
-layout_spectrum: 0.8322945183608681
+layout_spectrum: 1
 typography_spectrum: 0.7546826156321913
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.9945502446498722
+  brandStrength: 0.5
   lightness: 0.014121525222435594
   saturation: 0.049971406580880284
   rhythmicContrast: 0.6641567428596318
