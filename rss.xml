@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jeffsimeon]]></title>
-        <description><![CDATA[jeffsimeon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Jeff Simeon]]></title>
+        <description><![CDATA[Jeff Simeon]]></description>
+        <link>https://thegrid.ai/jeffsimeon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 10:21:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 12:39:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeffsimeon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Failure of StartUp Podcast, and What You Should Really Learn.]]></title>
             <description><![CDATA[<article><h1>The Failure of StartUp Podcast, and What You Should Really Learn.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52369ac2-072a-49cd-9883-cff8328d80c1.png"></article>]]></description>
-            <link>undefinedthe-failure-of-startup-podcast-and-what-you-should-really-l/index.html</link>
+            <link>https://thegrid.ai/jeffsimeon/the-failure-of-startup-podcast-and-what-you-should-really-l/index.html</link>
             <guid isPermaLink="false">739cbcdd-5e1d-4368-8f39-8c27f7066172</guid>
             <pubDate>Tue, 03 Nov 2015 10:21:06 GMT</pubDate>
         </item>
